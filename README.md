@@ -107,7 +107,9 @@ Navigate through the menus and enable the following settings:
     - Real-Time Protection -> ON
     - Cloud-Delivered Protection -> ON
     - Tamper Protection -> ON
-    - Controlled Folder Access -> ON
+    - Controlled Folder Access^ -> ON
+
+^Controlled folder access is a powerful tool to prevent damage caused by Ransomware, it will protect your personal files and folders in My Documents and other locations from unauthorized changes.
 
 - Firewall & Network Protection
     - Firewall -> ON (for all three network types)
@@ -123,3 +125,22 @@ Navigate through the menus and enable the following settings:
     - Core Isolation
         - Memory Integrity -> ON (This can have a small performance impact on gaming)
 
+### 2.4 Remove Unecessary Applications
+
+Windows comes preinstalled with a large number of common applications, each extra application on a computer is more potential vulnerabilities to be exploited, A good rule of thumb is to only keep the apps installed that you need.
+
+To remove apps easily:
+1. Open Start menu
+2. Type `Remove Apps`
+3. Click `Add or Remove Programs`
+4. Read Through the list of apps and remove anything that you do not frequently use.
+
+### 2.5 Configure UAC to Maximum
+
+UAC or User Account Control is a system in windows designed to help you prevent apps from making administrative changes without your awareness. UAC will prompt you to confirm whenever an application is trying to start or execute tasks that require administrator rights.
+
+1. Open Start Menu
+2. Type `UAC`
+3. Select `Change User Account Control Settings`
+4. Set the settings to "Always Notify"
+5. Click `OK`
