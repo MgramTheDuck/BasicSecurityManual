@@ -2,7 +2,7 @@
 
 These are a handfull of simple and easy recommendations that I have pulled together over the years to improve your home security on a windows PC and help you feel confident and safe online.
 
-> Background: I have been working in the IT Industry for a little over 6 years, covering roles from Helpdesk support, Network Engineering and more recently Cloud Security and consulting. As such I have worked on a wide arrangement of platforms, applications and toolsets. This guide is a collection of some of the basic recommendations which I would make to anyone who wants to have a bit more control over their own personal security and their online footprint.
+> Background: I have been working in the IT Industry for a little over 6 years, covering roles from Helpdesk support, Network Engineering and more recently Cloud Security and consulting. As such I have worked on a wide variety of platforms, applications and tools. This guide is a collection of some of the basic recommendations which I would make to anyone who wants to have a bit more control over their own personal security and their online footprint.
 
 NOTE: This is a work-in-progress and I will be adding more content to this over time. If you see any errors or mistakes, please feel free to create a PR or contact me directly. My details are in my Bio.
 
