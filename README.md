@@ -56,6 +56,8 @@ As a bare minimum, you should have at least one cloud storage location for your 
 - A Secure Password
 - Multi-factor authentication
 
+**A general rule of thumb: If you cannot re-download it, it should be stored in the cloud**
+
 This should be for storing anything of critical importance:
 - Medical Documents
 - ID Documents
