@@ -161,6 +161,28 @@ UAC or User Account Control is a system in windows designed to help you prevent 
 4. Set the settings to "Always Notify"
 5. Click `OK`
 
+### 2.6 Do not Daily-drive an Admin Account
+
+When you first setup your computer, you were likely given an Administrator account, this allows you to install and setup apps and software easily without needing admin permissions. However, this also means that when you run applications, they may be running as an administrator with more access rights then they need. It also opens the possiblility to make dangerous changes to the system unintentionally.
+
+Generally speaking, you should only be using an Administrator account when you need to make Administrative changes, otherwise you should be using a "Standard" account. 
+
+This can be a little complex but it is a significant improvement to your computer security. 
+
+Firstly, check to see if your account is an administrator
+
+Windows 11 Steps: 
+
+> Steps for windows 10 are very similar
+
+1. Open `Settings`
+2. Go to `Accounts > Other Users`
+3. Check to see what type of account you are using:
+    - Administrator
+    - Standard
+    
+If you are using an `Administrator` account, we will need to create a new Administrator User and demote your current account to `Standard`
+
 ## 3 Network Security
 
 These rules apply to your home network, they are common issues and flaws people often miss when setting up home routers and other equipment.
