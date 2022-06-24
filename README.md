@@ -6,7 +6,7 @@ These are a handfull of simple and easy recommendations that I have pulled toget
 
 NOTE: This is a work-in-progress and I will be adding more content to this over time. If you see any errors or mistakes, please feel free to create a PR or contact me directly. My details are in my Bio.
 
-> Furthermore, if you are looking for some more advanced recommendations, be sure to check out the [Advanced Guides](https://github.com/CMDRMgram/BasicSecurityManual/tree/main/Advanced%20Guides) folder. I wall be periodically adding new guides and recommendations here individually.
+> Furthermore, if you are looking for some more advanced recommendations, be sure to check out the [Advanced Guides](https://github.com/CMDRMgram/BasicSecurityManual/tree/main/Advanced%20Guides) folder. I will be periodically adding new guides and recommendations here individually.
 
 ## 1 Account Management
 
@@ -175,7 +175,7 @@ You should change your router password to something unique and complex.
 
 1. Find out your Router/Modem Model (usually on a sticker on the device)
 2. Google the user manual for your Router/Modem
-3. Follow the manual to login tto your Router/Modem
+3. Follow the manual to login to your Router/Modem
 4. Change the Router/Modem Administrator Password
 
 Most routers/modems will also come with a guide in the box on how to login and chaneg settings on the router/modem.
