@@ -76,10 +76,12 @@ Bitlocker is a built-in feature for windows that allows you to encrypt your driv
 
 To enable bitlocker:
 1. Open start menu
-2. Type "Bitlocker"
-3. Take the first option "Manage Bitlocker"
-4. For each drive, select "Turn on bitlocker"
+2. Type `Bitlocker`
+3. Take the first option `Manage Bitlocker`
+4. For each drive, select `Turn on bitlocker`
 5. Follow the steps to enable bitlocker, make sure you make a copy of the recovery key.
+
+![image](https://user-images.githubusercontent.com/85346345/175436088-64ec346d-e107-42eb-9a32-26df9a1255c1.png)
 
 You will be provided an opportunity to backup the "recovery key", this is important if you decide to move the drive to another computer, you will be prompted to enter the "recovery key" to get access to the drive again.
 
@@ -92,8 +94,10 @@ Since Windows 10, Microsoft has developed a very strong and advance Antivirus/An
 To get the most out of this app, you want to ensure you have enabled it's settings correctly.
 
 1. Open start menu
-2. Type "Windows Security"
-3. Open the Windows Security App
+2. Type `Windows Security`
+3. Open the `Windows Security App`
+
+![image](https://user-images.githubusercontent.com/85346345/175436120-9ae59410-b0f4-4b24-a0c5-edd432c1a780.png)
 
 Navigate through the menus and enable the following settings:
 
