@@ -6,6 +6,8 @@ These are a handfull of simple and easy recommendations that I have pulled toget
 
 NOTE: This is a work-in-progress and I will be adding more content to this over time. If you see any errors or mistakes, please feel free to create a PR or contact me directly. My details are in my Bio.
 
+> Furthermore, if you are looking for some more advanced recommendations, be sure to check out the [Advanced Guides](https://github.com/CMDRMgram/BasicSecurityManual/tree/main/Advanced%20Guides) folder. I wall be periodically adding new guides and recommendations here individually.
+
 ## 1 Account Management
 
 ### 1.1 Use a Password Manager (Paid/Free)
