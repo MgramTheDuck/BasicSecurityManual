@@ -119,9 +119,9 @@ Navigate through the menus and enable the following settings:
     - Real-Time Protection -> ON
     - Cloud-Delivered Protection -> ON
     - Tamper Protection -> ON
-    - Controlled Folder Access^ -> ON
+    - Controlled Folder Access -> ON
 
-> ^Controlled folder access is a powerful tool to prevent damage caused by Ransomware, it will protect your personal files and folders in My Documents and other locations from unauthorized changes.
+> Controlled folder access is a powerful tool to prevent damage caused by Ransomware, it will protect your personal files and folders in My Documents and other locations from unauthorized changes.
 
 - Firewall & Network Protection
     - Firewall -> ON (for all three network types)
@@ -135,7 +135,9 @@ Navigate through the menus and enable the following settings:
 
 - Device Security
     - Core Isolation
-        - Memory Integrity -> ON (This can have a small performance impact on gaming)
+        - Memory Integrity -> ON
+
+> Memory Integrity can have a small performance impact on gaming and other performance intensive tasks. Use as you feel comfortable.
 
 ### 2.4 Remove Unecessary Applications
 
