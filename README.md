@@ -121,7 +121,7 @@ Navigate through the menus and enable the following settings:
     - Tamper Protection -> ON
     - Controlled Folder Access^ -> ON
 
-^Controlled folder access is a powerful tool to prevent damage caused by Ransomware, it will protect your personal files and folders in My Documents and other locations from unauthorized changes.
+> ^Controlled folder access is a powerful tool to prevent damage caused by Ransomware, it will protect your personal files and folders in My Documents and other locations from unauthorized changes.
 
 - Firewall & Network Protection
     - Firewall -> ON (for all three network types)
