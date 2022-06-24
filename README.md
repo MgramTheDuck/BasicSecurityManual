@@ -101,7 +101,7 @@ To enable bitlocker:
 
 You will be provided an opportunity to backup the "recovery key", this is important if you decide to move the drive to another computer, you will be prompted to enter the "recovery key" to get access to the drive again.
 
-I suggest you make a copy of this and store it securely in a cloud-based file storage (OneDrive, Google Drive) as mentioned in 2.1
+Your recovery keys are sacred, these should be kept offline and secure. For example, print them out and keep them safely stored away somewhere secure at home. Do not label them. Alternatively, create an Encrypted USB drive, and store keys within it.
 
 ### 2.3 Setup Windows Defender Correctly (Windows Security App)
 
