@@ -6,7 +6,7 @@ These are a handfull of simple and easy recommendations that I have pulled toget
 
 NOTE: This is a work-in-progress and I will be adding more content to this over time. If you see any errors or mistakes, please feel free to create a PR or contact me directly. My details are in my Bio.
 
-## 1 Accounts
+## 1 Account Management
 
 ### 1.1 Use a Password Manager (Paid/Free)
 
@@ -45,6 +45,14 @@ DO NOT:
 If it is available, you should ALWAYS use Multi-factor authentication (AKA: 2-Factor Authentication). This should be either an SMS, code or notification on your phone. 
 
 Passwords will inevitably get breached, but MFA is the No.1 method to prevent account breaches and has saved me more than once.
+
+### 1.4 Clean up old accounts
+
+Its very easy to lose track of how many websites and services you have signed up for in the past, any one of these could prove a possible vulnerability and opportunity for someone to get hold of your data or initiate identity theft. 
+
+When you ar no longer using a website or service, you should delete your account, this is the best way to ensure it cannot be used against you.
+
+A good tool to find websites you are previously signed into is [WhatsMyName.app](https://whatsmyname.app) which will take your username and locate any website or service where that username was previously used to create an account.
 
 ## 2 Windows Security
 
@@ -148,3 +156,25 @@ UAC or User Account Control is a system in windows designed to help you prevent 
 3. Select `Change User Account Control Settings`
 4. Set the settings to "Always Notify"
 5. Click `OK`
+
+## 3 Network Security
+
+These rules apply to your home network, they are common issues and flaws people often miss when setting up home routers and other equipment.
+
+### 3.1 Change your Modem/Router Password
+
+Your home router likely came with a default username and password, for many devices, these are exactly the same eg: username/password or admin/password. This is a critical security flaw as many people do not know how to change this password or don't bother.
+
+If someone was able to enter your home network, via malware or a bad wifi password, they can potentially infect your Router device with malware or simply create more openings and vulnerabilities to your home network.
+
+You should change your router password to something unique and complex.
+
+1. Find out your Router/Modem Model (usually on a sticker on the device)
+2. Google the user manual for your Router/Modem
+3. Follow the manual to login tto your Router/Modem
+4. Change the Router/Modem Administrator Password
+
+Most routers/modems will also come with a guide in the box on how to login and chaneg settings on the router/modem.
+
+If you have a seperate Wireless Access Point device, you should also ensure you change the default password on this device too, using similar steps to that above.
+
