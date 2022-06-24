@@ -197,6 +197,7 @@ Creating a new Administrator Account:
 10. Change `Account type` to `Administrator` and click `OK`
 
 Once complete, it should look something like this:
+
 ![image](https://user-images.githubusercontent.com/85346345/175455935-88067420-3af5-440f-b1b6-af39af23ed30.png)
 
 Now finally, you need to demote your existing account.
