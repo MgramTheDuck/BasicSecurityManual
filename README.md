@@ -183,6 +183,35 @@ Windows 11 Steps:
     
 If you are using an `Administrator` account, we will need to create a new Administrator User and demote your current account to `Standard`
 
+Creating a new Administrator Account:
+
+1. Open `Settings`
+2. Go to `Accounts` > `Other Users`
+3. Select `Add Account` under Other Users ![image](https://user-images.githubusercontent.com/85346345/175455345-cd84b0b1-a2c7-42d1-8688-ada85a10b6e4.png)
+4. Select `I don't have this person's sign-in information`
+5. Select `Add a user without a Microsoft account` (This is for creating a local account)
+6. Give the accounts a Username and a Strong Password (see [Section 1.2](https://github.com/CMDRMgram/BasicSecurityManual#12-use-good-passwords))
+7. Setup some security questions
+8. Select the New Account
+9. Go to `Account Options` > `Change account type`
+10. Change `Account type` to `Administrator` and click `OK`
+
+Once complete, it should look something like this:
+![image](https://user-images.githubusercontent.com/85346345/175455935-88067420-3af5-440f-b1b6-af39af23ed30.png)
+
+Now finally, you need to demote your existing account.
+
+1. Log into the new Administrator you created (Start Menu > Switch user > Select `Other User`)
+2. Open `Settings`
+3. Go to `Accounts` > `Other Users`
+4. Select your Primary Account
+9. Go to `Account Options` > `Change account type`
+10. Change `Account type` to `Standard` and click `OK`
+
+You can now switch back to your Primary Account.
+
+> Once you have done this, when installing applications or changing settings, you may be prompted to enter Administrator details, you should keep your Admin Account login somewhere safe and secure, such as a Password manager as mentioned in [Section 1.1](https://github.com/CMDRMgram/BasicSecurityManual#11-use-a-password-manager-paidfree)
+
 ## 3 Network Security
 
 These rules apply to your home network, they are common issues and flaws people often miss when setting up home routers and other equipment.
