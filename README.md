@@ -30,8 +30,8 @@ Good passwords are suprisingly hard to come by, but they don't need to be diffic
 Examples:
 
 - summer-CAKES88
-- GREEN-clouds44
-- bright-GLASS23
+- GREEN@clouds44
+- bright!GLASS23
 
 These passwords will meet 99% of requirements and are easy to remember.
 
