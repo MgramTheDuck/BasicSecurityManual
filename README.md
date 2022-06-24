@@ -180,7 +180,9 @@ Windows 11 Steps:
 3. Check to see what type of account you are using:
     - Administrator
     - Standard
-    
+
+![image](https://user-images.githubusercontent.com/85346345/175456412-7d4efea1-6808-4f09-b08e-ff61d4bcfcdc.png)
+  
 If you are using an `Administrator` account, we will need to create a new Administrator User and demote your current account to `Standard`
 
 Creating a new Administrator Account:
