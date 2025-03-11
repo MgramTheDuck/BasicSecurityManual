@@ -44,6 +44,9 @@ DO NOT:
 - Use dates or birthdays
 - Use names of people you know personally
 
+> [!NOTE]  
+> If you are using a password manager, you should use long randomly generated passwords (20+ Characters) and store these in the password manager. Create a good memorable password to unlock the password manager.
+
 ### 1.3 Use Multi-factor authentication
 
 If it is available, you should ALWAYS use Multi-factor authentication (AKA: 2-Factor Authentication). This should be either an SMS, code or notification on your phone. 
