@@ -33,8 +33,8 @@ Good passwords are suprisingly hard to come by, but they don't need to be diffic
 Examples:
 
 - summer-CAKES88
-- GREEN@clouds44
-- bright!GLASS23
+- GREEN@clouds$GUITAR44
+- bright!GLASS!tree23
 
 [A well known XKCD comic explains how these work in detail.](https://xkcd.com/936/)
 
