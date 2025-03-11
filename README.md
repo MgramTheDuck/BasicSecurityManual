@@ -259,4 +259,4 @@ VPNs (the consumer kind) are NOT giving you extra security, they are giving you 
 
 Regarding privacy however, your location is not typically something advertisers will use anyway, since your IP changes regularly and you IP geolocation is usually only accurate to the city.
 
-If you want to have ACTUAL privacy, you need to look into your browser privacy settings, I will go into more detail on this further.
+If you want to have ACTUAL privacy, you need to look into your browser privacy settings and how you use website and services, I will go into more detail on this further.
