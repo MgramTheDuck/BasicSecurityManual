@@ -1,4 +1,4 @@
-# Mgram's Recommendations for Basic Home Security
+# Em's simple guide for cyber security
 
 These are a handfull of simple and easy recommendations that I have pulled together over the years to improve your home security on a windows PC and help you feel confident and safe online.
 
