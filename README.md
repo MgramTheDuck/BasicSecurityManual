@@ -251,7 +251,8 @@ A VPN works by routing your internet traffic through a VPN server before spittin
 It is a common misconception that VPNs make your internet browser more "secure" because it's "encrypted"...
 
 There are two major issues with this...
-1. Your internet traffic is ALREADY ENCRYPTED from End-to-End, its called TLS and if you see "HTTPS://..." you are using it. See Image ![image](https://user-images.githubusercontent.com/85346345/187901914-1180a41e-ab8b-40eb-8662-ab329387c6a3.png)
+1. Your internet traffic is ALREADY ENCRYPTED from End-to-End, its called TLS and if you see "HTTPS://..." you are using it. See Image 
+![image](https://user-images.githubusercontent.com/85346345/187901914-1180a41e-ab8b-40eb-8662-ab329387c6a3.png)
 2. VPNs do add extra encryption, but it is ONLY from your computer to the VPN's server, it still has to travel across the internet after that without the "extra" encryption the VPN provides, which makes it functionally pointless.
 
 VPNs (the consumer kind) are NOT giving you extra security, they are giving you privacy in the form of obscuring your location, nothing more.
