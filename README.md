@@ -35,7 +35,7 @@ Examples:
 - GREEN@clouds44
 - bright!GLASS23
 
-[A well known XKCD comic explains this in detail.](https://xkcd.com/936/)
+[A well known XKCD comic explains how these work in detail.](https://xkcd.com/936/)
 
 These passwords will meet 99% of requirements and are easy to remember.
 
