@@ -24,9 +24,9 @@ DO NOT keep passwords in a text file/word document/etc on your PC, this is the f
 
 Good passwords are suprisingly hard to come by, but they don't need to be difficult. Here is a very simple formula for creating complex and memorable passwords.
 
-- Two words
-- One symbol between the words
-- One words in all CAPS
+- a few words
+- a few symbol between the words
+- some words in all CAPS
 - 2 numbers at the end
 
 Examples:
@@ -34,6 +34,8 @@ Examples:
 - summer-CAKES88
 - GREEN@clouds44
 - bright!GLASS23
+
+[A well known XKCD comic explains this in detail.](https://xkcd.com/936/)
 
 These passwords will meet 99% of requirements and are easy to remember.
 
