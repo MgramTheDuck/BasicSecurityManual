@@ -14,8 +14,9 @@ NOTE: This is a work-in-progress and I will be adding more content to this over 
 
 Re-using passwords is a very quick way to have all your accounts hacked, If so much as one service is breached you might find yourself in a lot of trouble very quickly. I strongly recommend using a password manager, to store passwords and ensure you create unique passwords for every service.
 
-- [Bitwarden](https://bitwarden.com/) (Cloud Service, Free, Open Source)
-- [Dashlane](https://www.dashlane.com/) (Cloud Service, Paid)
+Here are some I recommend:
+
+- [Bitwarden](https://bitwarden.com/) (Cloud Service, Free, Offline Option available)
 - [KeePass](https://keepass.info) (Stored on your PC, Free)
 
 DO NOT keep passwords in a text file/word document/etc on your PC, this is the first thing potential hackers will look for.
