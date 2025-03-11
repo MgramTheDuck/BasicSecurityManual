@@ -2,7 +2,7 @@
 
 These are a handfull of simple and easy recommendations that I have pulled together over the years to improve your home security on a windows PC and help you feel confident and safe online.
 
-> Background: I have been working in the IT Industry for a little over 6 years, covering roles from Helpdesk support, Network Engineering and more recently Cloud Security and consulting. As such I have worked on a wide variety of platforms, applications and tools. This guide is a collection of some of the basic recommendations which I would make to anyone who wants to have a bit more control over their own personal security and their online footprint.
+> Background: I have been working in the IT Industry for over 7 years, covering roles from Helpdesk support, Network Engineering and more recently Cloud Security and consulting. As such I have worked on a wide variety of platforms, applications and tools. This guide is a collection of some of the basic recommendations which I would make to anyone who wants to have a bit more control over their own personal security and their online footprint.
 
 NOTE: This is a work-in-progress and I will be adding more content to this over time. If you see any errors or mistakes, please feel free to create a PR or contact me directly. My details are in my Bio.
 
@@ -183,11 +183,9 @@ Windows 11 Steps:
 
 1. Open `Settings`
 2. Go to `Accounts > Other Users`
-3. Check to see what type of account you are using:
+3. Check to see what type of account you are using under your username:
     - Administrator
     - Standard
-
-![image](https://user-images.githubusercontent.com/85346345/175456412-7d4efea1-6808-4f09-b08e-ff61d4bcfcdc.png)
   
 If you are using an `Administrator` account, we will need to create a new Administrator User and demote your current account to `Standard`
 
